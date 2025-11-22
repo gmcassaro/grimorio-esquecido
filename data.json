@@ -1,0 +1,338 @@
+[
+  {
+    "nome": "Mísseis Mágicos",
+    "descricao": "Cria três dardos de energia mística que atingem seus alvos infalivelmente, causando dano de força.",
+    "circulo_magia": "1º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/magic-missile",
+    "tags": [
+      "evocação",
+      "dano",
+      "mago",
+      "feiticeiro"
+    ]
+  },
+  {
+    "nome": "Bola de Fogo",
+    "descricao": "Uma explosão de chamas irrompe em um ponto à sua escolha, incendiando uma área esférica e causando dano de fogo a todas as criaturas dentro dela.",
+    "circulo_magia": "3º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/fireball",
+    "tags": [
+      "evocação",
+      "dano em área",
+      "fogo",
+      "mago"
+    ]
+  },
+  {
+    "nome": "Curar Ferimentos",
+    "descricao": "Um toque de energia positiva que restaura pontos de vida de uma criatura que você possa tocar.",
+    "circulo_magia": "1º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/cure-wounds",
+    "tags": [
+      "evocação",
+      "cura",
+      "clérigo",
+      "bardo",
+      "druida"
+    ]
+  },
+  {
+    "nome": "Padrão Hipnótico",
+    "descricao": "Cria um padrão de cores retorcido no ar que fascina criaturas, deixando-as incapacitadas e com velocidade zero.",
+    "circulo_magia": "3º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/hypnotic-pattern",
+    "tags": [
+      "ilusão",
+      "controle de grupo",
+      "bardo",
+      "mago"
+    ]
+  },
+  {
+    "nome": "Invisibilidade",
+    "descricao": "Uma criatura que você toca se torna invisível até que ataque, lance uma magia ou a concentração seja quebrada.",
+    "circulo_magia": "2º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/invisibility",
+    "tags": [
+      "ilusão",
+      "utilidade",
+      "furtividade",
+      "mago",
+      "bardo"
+    ]
+  },
+  {
+    "nome": "Animar Mortos",
+    "descricao": "Reanima um monte de ossos ou um cadáver, criando um servo esqueleto ou zumbi leal que obedece aos seus comandos.",
+    "circulo_magia": "3º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/animate-dead",
+    "tags": [
+      "necromancia",
+      "invocação",
+      "clérigo",
+      "mago"
+    ]
+  },
+  {
+    "nome": "Armadura Arcana",
+    "descricao": "Uma força mágica protetora envolve o alvo, definindo sua Classe de Armadura base como 13 + seu modificador de Destreza.",
+    "circulo_magia": "1º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/mage-armor",
+    "tags": [
+      "abjuração",
+      "defesa",
+      "mago",
+      "feiticeiro"
+    ]
+  },
+  {
+    "nome": "Metamorfose",
+    "descricao": "Transforma uma criatura que você pode ver em uma nova forma, mudando-a para uma besta de nível de desafio igual ou menor.",
+    "circulo_magia": "4º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/polymorph",
+    "tags": [
+      "transmutação",
+      "controle",
+      "utilidade",
+      "druida",
+      "mago"
+    ]
+  },
+  {
+    "nome": "Raio de Gelo",
+    "descricao": "Um raio de luz azul-esbranquiçada atinge uma criatura, causando dano de frio e reduzindo seu deslocamento.",
+    "circulo_magia": "Truque",
+    "link_referencia": "https://www.dndbeyond.com/spells/ray-of-frost",
+    "tags": [
+      "evocação",
+      "dano",
+      "controle",
+      "feiticeiro",
+      "mago"
+    ]
+  },
+  {
+    "nome": "Silêncio",
+    "descricao": "Cria uma esfera de silêncio de 6 metros de raio. Nenhum som pode ser criado ou passar por ela, e criaturas dentro dela são surdas e imunes a dano de trovão.",
+    "circulo_magia": "2º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/silence",
+    "tags": [
+      "ilusão",
+      "ritual",
+      "controle",
+      "clérigo",
+      "bardo"
+    ]
+  },
+  {
+    "nome": "Relâmpago",
+    "descricao": "Um relâmpago forma uma linha de 30 metros de comprimento que parte de você, causando dano elétrico a cada criatura na linha.",
+    "circulo_magia": "3º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/lightning-bolt",
+    "tags": [
+      "evocação",
+      "dano em linha",
+      "eletricidade",
+      "mago"
+    ]
+  },
+  {
+    "nome": "Detectar Magia",
+    "descricao": "Pela duração, você sente a presença de magia a até 9 metros de você, e a aura revela a escola de magia, se houver.",
+    "circulo_magia": "1º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/detect-magic",
+    "tags": [
+      "adivinhação",
+      "ritual",
+      "utilidade",
+      "todas as classes"
+    ]
+  },
+  {
+    "nome": "Campo Antimagia",
+    "descricao": "Uma esfera invisível de 3 metros de raio de antimagia envolve você. A área é separada da energia mágica que se espalha pelo multiverso.",
+    "circulo_magia": "8º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/antimagic-field",
+    "tags": [
+      "abjuração",
+      "defesa",
+      "controle"
+    ]
+  },
+  {
+    "nome": "Passo Nebuloso",
+    "descricao": "Teletransporta-se para um espaço desocupado que você possa ver a até 9 metros.",
+    "circulo_magia": "2º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/misty-step",
+    "tags": [
+      "conjuração",
+      "movimento",
+      "teleporte"
+    ]
+  },
+  {
+    "nome": "Voo",
+    "descricao": "Você toca uma criatura voluntária. O alvo ganha 18 metros de deslocamento de voo pela duração.",
+    "circulo_magia": "3º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/fly",
+    "tags": [
+      "transmutação",
+      "movimento",
+      "utilidade"
+    ]
+  },
+  {
+    "nome": "Sugestão",
+    "descricao": "Você sugere um curso de atividade e influencia magicamente uma criatura que você pode ver dentro do alcance que pode ouvi-lo e compreendê-lo.",
+    "circulo_magia": "2º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/suggestion",
+    "tags": [
+      "encantamento",
+      "controle mental",
+      "social"
+    ]
+  },
+  {
+    "nome": "Muralha de Força",
+    "descricao": "Uma parede de força invisível surge em um ponto que você escolher dentro do alcance. A parede não pode passar por uma barreira sólida.",
+    "circulo_magia": "5º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/wall-of-force",
+    "tags": [
+      "evocação",
+      "defesa",
+      "controle de campo"
+    ]
+  },
+  {
+    "nome": "Imagem Espelhada",
+    "descricao": "Três duplicatas ilusórias de você aparecem em seu espaço. Até o feitiço terminar, as duplicatas se movem com você e imitam suas ações.",
+    "circulo_magia": "2º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/mirror-image",
+    "tags": [
+      "ilusão",
+      "defesa",
+      "pessoal"
+    ]
+  },
+  {
+    "nome": "Toque Vampírico",
+    "descricao": "O toque de sua mão coberta de sombras pode drenar a força vital de outros para curar suas próprias feridas.",
+    "circulo_magia": "3º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/vampiric-touch",
+    "tags": [
+      "necromancia",
+      "dano",
+      "cura"
+    ]
+  },
+  {
+    "nome": "Respirar na Água",
+    "descricao": "Este feitiço concede a até dez criaturas voluntárias que você pode ver dentro do alcance a capacidade de respirar debaixo d'água até o feitiço terminar.",
+    "circulo_magia": "3º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/water-breathing",
+    "tags": [
+      "transmutação",
+      "ritual",
+      "utilidade"
+    ]
+  },
+  {
+    "nome": "Bênção",
+    "descricao": "Você abençoa até três criaturas de sua escolha dentro do alcance. Sempre que um alvo faz uma jogada de ataque ou um teste de resistência, ele pode rolar um d4 e adicionar o número rolado.",
+    "circulo_magia": "1º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/bless",
+    "tags": [
+      "encantamento",
+      "suporte",
+      "buff"
+    ]
+  },
+  {
+    "nome": "Dissipar Magia",
+    "descricao": "Escolha uma criatura, objeto ou efeito mágico dentro do alcance. Qualquer feitiço de 3º nível ou inferior no alvo termina.",
+    "circulo_magia": "3º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/dispel-magic",
+    "tags": [
+      "abjuração",
+      "utilidade",
+      "controle"
+    ]
+  },
+  {
+    "nome": "Clarividência",
+    "descricao": "Você cria um sensor invisível dentro do alcance em um local familiar para você ou em um local óbvio que você possa ver.",
+    "circulo_magia": "3º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/clairvoyance",
+    "tags": [
+      "adivinhação",
+      "utilidade",
+      "exploração"
+    ]
+  },
+  {
+    "nome": "Tempestade de Gelo",
+    "descricao": "Uma chuva de rocha e gelo cai em um cilindro. Cada criatura no cilindro deve fazer um teste de resistência de Destreza.",
+    "circulo_magia": "4º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/ice-storm",
+    "tags": [
+      "evocação",
+      "dano em área",
+      "frio"
+    ]
+  },
+  {
+    "nome": "Viagem Planar",
+    "descricao": "Você e até oito criaturas voluntárias que se dão as mãos em um círculo são transportados para um plano de existência diferente.",
+    "circulo_magia": "7º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/plane-shift",
+    "tags": [
+      "conjuração",
+      "teleporte",
+      "utilidade"
+    ]
+  },
+  {
+    "nome": "Desejo",
+    "descricao": "O feitiço mais poderoso que uma criatura mortal pode lançar. Simplesmente falando em voz alta, você pode alterar os próprios fundamentos da realidade.",
+    "circulo_magia": "9º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/wish",
+    "tags": [
+      "conjuração",
+      "utilidade",
+      "realidade"
+    ]
+  },
+  {
+    "nome": "Forma Gasosa",
+    "descricao": "Você transforma uma criatura voluntária que você toca, junto com tudo o que ela está vestindo e carregando, em uma nuvem nebulosa pela duração.",
+    "circulo_magia": "3º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/gaseous-form",
+    "tags": [
+      "transmutação",
+      "utilidade",
+      "exploração"
+    ]
+  },
+  {
+    "nome": "Invocar Elemental",
+    "descricao": "Você chama um elemental servo. Escolha uma área de ar, terra, fogo ou água que preencha um cubo de 3 metros.",
+    "circulo_magia": "5º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/conjure-elemental",
+    "tags": [
+      "conjuração",
+      "invocação",
+      "elemental"
+    ]
+  },
+  {
+    "nome": "Chuva de Meteoros",
+    "descricao": "Esferas de fogo ardente caem no chão em quatro pontos diferentes que você pode ver dentro do alcance.",
+    "circulo_magia": "9º Círculo",
+    "link_referencia": "https://www.dndbeyond.com/spells/meteor-swarm",
+    "tags": [
+      "evocação",
+      "dano em área",
+      "fogo"
+    ]
+  }
+]
